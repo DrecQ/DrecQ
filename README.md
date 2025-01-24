@@ -6,7 +6,7 @@ Je suis **[DrecQ]**, un passionné de **développement** et de **technologies mo
 
 ## 🚀 À propos de moi
 
-- 🎓 Étudiant en licence 3 informatique, spécialité génie logiciel.  
+- 🎓 Étudiant en informatique, spécialité génie logiciel.  
 - 💻 Je travaille sur des projets en **Laravel**, **React.js**, **Node.js**, et bien plus encore.  
 - 📚 Actuellement, je me concentre sur :
   - L'approfondissement de mes compétences en **programmation**.  
