@@ -7,7 +7,7 @@ Je suis **[DrecQ]**, un passionné de **développement** et de **technologies mo
 ## 🚀 À propos de moi
 
 - 🎓 Étudiant en informatique, spécialité génie logiciel.  
-- 💻 Je travaille sur des projets en **Laravel**, **React.js**, **Node.js**, et bien plus encore.  
+- 💻 Je travaille sur des projets en **Laravel**, **Nuxt.js**, **Node.js**, et bien plus encore.  
 - 📚 Actuellement, je me concentre sur :
   - L'approfondissement de mes compétences en **programmation**.  
   - La maîtrise des concepts avancés en **génie logiciel**, en **base de données** et en **DevOps**.
@@ -30,7 +30,6 @@ Voici les outils et technologies que j'utilise régulièrement :
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 - **Frameworks & Outils Backend :**  
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
